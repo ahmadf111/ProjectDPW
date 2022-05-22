@@ -1,5 +1,7 @@
 body{
+    padding-bottom: 20px;
     background-color: #E3D8E0;
+<<<<<<< HEAD
 }
 
 .login{
@@ -59,3 +61,25 @@ body{
     align: left;
     
 }
+=======
+    font-family: 'IM FELL Great Primer SC';
+}
+
+.form-control{
+    width: 660px;
+    height: 30px;
+}
+button{
+    background-color: gray;
+    border-radius: 5px;  
+}
+img{
+    border-radius: 5px;
+}
+div.card{
+    margin-top: 20px;
+}
+button1{
+    margin-top: 20px;
+}
+>>>>>>> 84e610e983099539e627c0cb0e48543dacf8ab09
