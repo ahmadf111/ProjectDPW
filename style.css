@@ -1,3 +1,61 @@
 body{
     background-color: #E3D8E0;
 }
+
+.login{
+    margin-top: 120px;
+    font-family: Alice;
+    font-size: 40px;
+    
+
+}
+.login a{
+    text-decoration: none;
+    text-align: center;
+
+}
+
+.alice{
+    color: #C61313;
+    
+}
+
+.register{
+    color: black;
+    display: block;
+    float: right;
+}
+
+.img-google{
+    margin-right: 50px;
+}
+
+.login-google a{
+    font-family: alice;
+    text-decoration: none;
+    font-size: 36px;
+    color: black;
+    border: 1;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 30px;
+    
+}
+.coba{
+    margin-top: 110px;
+}
+.or{
+    font-family: alice;
+    text-decoration: none;
+    font-size: 36px;
+    text-align: center;
+    color: black;
+    padding: 20px;
+}
+.garis{
+    size: 10px;
+    width: 30px;
+    color: black;
+    align: left;
+    
+}
