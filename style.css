@@ -66,7 +66,7 @@ body{
 }
 
 .form-control{
-    width: 660px;
+    width: 800px;
     height: 30px;
 }
 button{
@@ -82,4 +82,17 @@ div.card{
 button1{
     margin-top: 20px;
 }
+<<<<<<< HEAD
 >>>>>>> 84e610e983099539e627c0cb0e48543dacf8ab09
+=======
+
+.carousel-item{
+    width: 800px;
+    height: 320px;
+    margin-left: 170px;
+}
+.Navv{
+    text-decoration: none;
+    font-size: larger;
+}
+>>>>>>> 757f855d3ed430c39a9cae47fe5e3bb866b43c46
