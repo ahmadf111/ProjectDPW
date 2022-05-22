@@ -5,7 +5,7 @@ body{
 }
 
 .form-control{
-    width: 660px;
+    width: 800px;
     height: 30px;
 }
 button{
@@ -20,4 +20,14 @@ div.card{
 }
 button1{
     margin-top: 20px;
+}
+
+.carousel-item{
+    width: 800px;
+    height: 320px;
+    margin-left: 170px;
+}
+.Navv{
+    text-decoration: none;
+    font-size: larger;
 }
