@@ -19,10 +19,9 @@ body{
     border: 1px solid #00000000;
     border-radius: 50px;
     outline:#0b1e31;
-    background: rgb(220, 220, 221);
+    background: rgb(175, 159, 160);
 }
 
-/* set warna tulisan email & password saat diliat pertamakali */
 .form-input input::placeholder{
     color: #454b69;
     padding-left: 0px;
